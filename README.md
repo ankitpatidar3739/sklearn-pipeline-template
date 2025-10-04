@@ -67,6 +67,10 @@ Perform more extensive Exploratory Data Analysis (EDA) and visualize feature imp
 Utilize Pipeline caching to speed up repeated tuning iterations.
 <img width="1352" height="791" alt="Screenshot 2025-10-04 195300" src="https://github.com/user-attachments/assets/b50975f4-d3d9-4c89-9e3d-45d33801c968" />
 
+<img width="1410" height="1010" alt="Screenshot 2025-10-04 195240" src="https://github.com/user-attachments/assets/81cd65d6-1412-4988-9b0c-a4631c9bb4e8" />
+<img width="1352" height="791" alt="Screenshot 2025-10-04 195300" src="https://github.com/user-attachments/assets/7e2ec9db-5610-4628-b0a0-898b703527d1" />
+
+
 
 
 
