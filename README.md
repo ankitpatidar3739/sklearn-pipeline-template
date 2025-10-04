@@ -65,6 +65,7 @@ Compare the performance of the Decision Tree against a Random Forest and Support
 Perform more extensive Exploratory Data Analysis (EDA) and visualize feature importance.
 
 Utilize Pipeline caching to speed up repeated tuning iterations.
+<img width="1352" height="791" alt="Screenshot 2025-10-04 195300" src="https://github.com/user-attachments/assets/b50975f4-d3d9-4c89-9e3d-45d33801c968" />
 
 
 
